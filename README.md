@@ -21,11 +21,7 @@ To use Enver in your Go project, you need to install it by running:
 go get github.com/msrexe/enver
 ```
 
-Ensure you have Go 1.21.0 or higher, as specified in the `go.mod` file:
-
-```go.mod
-3|go 1.21.0
-```
+Ensure you have Go 1.18 or higher, as specified in the `go.mod` file.
 
 ## Usage
 
